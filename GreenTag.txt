@@ -1,0 +1,24 @@
+Qu'est que c'est un Tag ?
+
+Un tag est une marque avec laquelle vous marquez votre fichier et qui permet de donner une meilleur signification que le nom du fichier.
+
+Exemple :
+
+1) Un fichier MP3 nommé "PISTE1.MP3" je peux le tagger (=Marquer) avec le nom de l'artiste et le nom de la chanson, ensuite si j'effectue une recherche avec le nom de l'artiste ou le nom de la chanson je trouverai ce fichier.
+2) Un fichier Word nommé "ECOLE" qui contient un exposé sur un sujet précis (le nucléaire par exemple) je peux le tagger avec "Expose Nucléaire", ensuite si j'effectue une recherche avec le mot "Nucléaire" ou "Expose" je trouverai ce fichier.
+
+1 - Installez le logiciel en lançant GreenTagSetup.exe, Lorsque l'installation vous offre de lancer le programme coche la case correspondante.
+
+2 – Apres la fin de l’installation, cliquez avec le bouton droit de la souris sur un fichier, la commande ***Tagez*** devrai apparaître, cliquez dessus.
+
+3 – Une fenêtre apparaîtra avec le nom du fichier et les tags (Marquages) associes.
+
+Dans cette fenêtre vous pourrez modifier la liste des tags (Séparé par un espace) puis valider.
+
+
+Pour rechercher un fichier selon ses Tags (Marquages):
+1 - Cliquez sur l’icône « Rechercher un fichier (GreenTag) » présente :
+	Sur le bureau
+	Parmi les icônes du groupe GreenTag du menu démarrer 
+2 - Ensuite une fenêtre apparaîtra, il vous suffit d’introduire le tag (Marquage) recherche et de cliquer sur le bouton « Trouver ! »
+3 - Si vous souhaitez ouvrir un fichier trouvé cliquez dessus dans le tableau
